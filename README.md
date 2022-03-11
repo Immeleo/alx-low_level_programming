@@ -1,1 +1,1 @@
-In this repor I will be learning and practicing C programming
+In this repo I will be learning and practicing C programming
