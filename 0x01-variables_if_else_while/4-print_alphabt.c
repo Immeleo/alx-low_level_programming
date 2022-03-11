@@ -15,4 +15,5 @@ if (ch != 'q' && ch != 'e')
 putchar(ch);
 }
 putchar('\n');
+return (0);
 }
