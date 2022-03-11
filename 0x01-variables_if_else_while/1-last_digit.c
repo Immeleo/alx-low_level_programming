@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - prints the last digit of the number stored in variable n
- *        n is aasigned a random number
- *
- * Return: Always 0.
- */
+* main - prints the last digit of the number stored in variable n
+*        n is aasigned a random number
+*
+* Return: Always 0.
+*/
 int main(void)
 {
-  int n,lastdigit;
+int n, lastdigit;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 lastdigit = n % 10;
