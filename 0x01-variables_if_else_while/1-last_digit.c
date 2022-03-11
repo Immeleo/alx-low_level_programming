@@ -2,6 +2,12 @@
 #include <time.h>
 /* more headers goes there */
 /* betty style doc for function main goes there */
+/**
+ * main - prints the last digit of the number stored in variable n
+ *        n is aasigned a random number
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 int n;
