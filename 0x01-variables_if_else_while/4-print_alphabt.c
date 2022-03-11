@@ -1,5 +1,10 @@
 #include <stdio.h>
-/*Programme to print alphabet in lowercase followed by new line using putchar*/
+/**
+*main-Programme to print alphabet in lowercase followed by
+*     new line using putchar
+*
+*Return: always 0
+*/
 int main(void)
 {
 /*This is the main function*/

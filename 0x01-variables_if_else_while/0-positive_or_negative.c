@@ -2,6 +2,11 @@
 #include <time.h>
 /* more headers goes there */
 /* betty style doc for function main goes there */
+/**
+*main-programe prints positive and negative numbers or zero
+*
+*Return: always 0
+*/
 int main(void)
 {
 int n;

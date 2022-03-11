@@ -1,5 +1,10 @@
 #include <stdio.h>
-/*programe to print singles numbers of base 10 starting with zero*/
+/**
+*main-programe to print singles numbers of base 10 starting with zero
+*
+*
+*Return: always 0
+*/
 int main(void)
 {
 /*this is the main function and has a for loop*/

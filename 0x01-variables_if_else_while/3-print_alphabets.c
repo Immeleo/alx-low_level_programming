@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*programme to print alphabet in lower and upper case followed by new line*/
+/**
+*main-programme to print alphabet in lower and upper case followed by new line
+*
+*Return: always 0
+*/
 int main(void)
 {
 int ch;
