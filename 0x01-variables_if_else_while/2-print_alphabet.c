@@ -7,7 +7,6 @@
 */
 int main(void)
 {
-/*This is the main function*/
 char ch;
 for (ch = 'a'; ch <= 'z'; ch++)
 {
