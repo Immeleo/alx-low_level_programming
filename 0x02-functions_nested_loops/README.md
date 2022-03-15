@@ -1,0 +1,1 @@
+In this directory i will advance on C programming working with nested loops and functions
