@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "main.h"
-
-/*
+/**
 *
 * main - Entry point
 *
@@ -9,10 +8,9 @@
 */
 int main(void)
 {
-char text_printed[9] = "_putchar";
+char text_printed[8] = "_putchar";
 int count;
-
-for (count = 0; count < 9; count++)
+for (count = 0; count < 8; count++)
 {
 _putchar(text_printed[count]);
 }
