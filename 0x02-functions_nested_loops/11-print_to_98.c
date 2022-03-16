@@ -7,7 +7,9 @@
 void print_to_98(int n)
 {
 if (n < 0)
+{
 n *= -1;
+}
 for (n >= 0; n <= 98;
 {
 return (n % 10);
