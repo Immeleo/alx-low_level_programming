@@ -1,7 +1,3 @@
-ii
-
-
-
 #include "main.h"
 /**
 *print_to_98 -print all natural nos
