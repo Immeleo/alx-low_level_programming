@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 /**
 *print_sign - function to print sign of a number
 *@int: integer
