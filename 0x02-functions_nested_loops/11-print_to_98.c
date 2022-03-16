@@ -10,12 +10,16 @@ ii
 */
 void print_to_98(int n)
 {
-if (n < 0)
+while (n < 98)
 {
-n *= -1;
+return (n);
+n++;
 }
- for (n >= 0; n <= 98; n++)
+while (n > 98)
 {
-return (n % 10);
+return (n);
+n--;
 }
+if (n == 98)
+return (n);
 }
